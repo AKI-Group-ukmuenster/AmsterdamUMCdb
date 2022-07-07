@@ -13,3 +13,6 @@
 **/build/
 **/dist/
 **/*venv/
+
+# custom
+.DS_Store
